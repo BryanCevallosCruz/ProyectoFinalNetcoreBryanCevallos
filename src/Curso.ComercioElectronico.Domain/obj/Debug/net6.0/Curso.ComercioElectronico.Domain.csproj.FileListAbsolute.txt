@@ -1,0 +1,12 @@
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\bin\Debug\net6.0\Curso.ComercioElectronico.Domain.deps.json
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\bin\Debug\net6.0\Curso.ComercioElectronico.Domain.dll
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\bin\Debug\net6.0\Curso.ComercioElectronico.Domain.pdb
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\obj\Debug\net6.0\Curso.ComercioElectronico.Domain.csproj.AssemblyReference.cache
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\obj\Debug\net6.0\Curso.ComercioElectronico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\obj\Debug\net6.0\Curso.ComercioElectronico.Domain.AssemblyInfoInputs.cache
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\obj\Debug\net6.0\Curso.ComercioElectronico.Domain.AssemblyInfo.cs
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\obj\Debug\net6.0\Curso.ComercioElectronico.Domain.csproj.CoreCompileInputs.cache
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\obj\Debug\net6.0\Curso.ComercioElectronico.Domain.dll
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\obj\Debug\net6.0\refint\Curso.ComercioElectronico.Domain.dll
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\obj\Debug\net6.0\Curso.ComercioElectronico.Domain.pdb
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Domain\obj\Debug\net6.0\ref\Curso.ComercioElectronico.Domain.dll

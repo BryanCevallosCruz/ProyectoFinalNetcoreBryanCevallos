@@ -1,0 +1,15 @@
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\bin\Debug\net6.0\Curso.ComercioElectronico.Application.deps.json
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\bin\Debug\net6.0\Curso.ComercioElectronico.Application.dll
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\bin\Debug\net6.0\Curso.ComercioElectronico.Application.pdb
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\bin\Debug\net6.0\Curso.ComercioElectronico.Domain.dll
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\bin\Debug\net6.0\Curso.ComercioElectronico.Domain.pdb
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\obj\Debug\net6.0\Curso.ComercioElectronico.Application.csproj.AssemblyReference.cache
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\obj\Debug\net6.0\Curso.ComercioElectronico.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\obj\Debug\net6.0\Curso.ComercioElectronico.Application.AssemblyInfoInputs.cache
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\obj\Debug\net6.0\Curso.ComercioElectronico.Application.AssemblyInfo.cs
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\obj\Debug\net6.0\Curso.ComercioElectronico.Application.csproj.CoreCompileInputs.cache
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\obj\Debug\net6.0\Curso.ComercioElectronico.Application.csproj.CopyComplete
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\obj\Debug\net6.0\Curso.ComercioElectronico.Application.dll
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\obj\Debug\net6.0\refint\Curso.ComercioElectronico.Application.dll
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\obj\Debug\net6.0\Curso.ComercioElectronico.Application.pdb
+C:\Users\brcevall\OneDrive - Banco Pichincha C.A\Documentos\ProyectoComercoElectronico\src\Curso.ComercioElectronico.Application\obj\Debug\net6.0\ref\Curso.ComercioElectronico.Application.dll

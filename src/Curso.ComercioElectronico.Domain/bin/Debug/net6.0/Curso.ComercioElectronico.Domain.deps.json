@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Curso.ComercioElectronico.Domain/1.0.0": {
+        "runtime": {
+          "Curso.ComercioElectronico.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso.ComercioElectronico.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
